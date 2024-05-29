@@ -33,8 +33,8 @@ the `min_samples_split` parameter is 2
 The model with best rmse is:5.335
 
 # 6.Promote the best model to the model registry
-
-<img src='https://github.com/GawainGan/MLOps/blob/main/2-Experiment-Tracking/pic/6-Best-test-rmse.png' style="width: 60%;">
+<img src='https://github.com/GawainGan/MLOps/blob/main/2-Experiment-Tracking/pic/6-Update-register_model.py%20file.png' style="width: 60%;">
+<img src='https://github.com/GawainGan/MLOps/blob/main/2-Experiment-Tracking/pic/6.1-Best-test-rmse.png' style="width: 60%;">
 
 The best model with the test rmse is: 5.567
 
