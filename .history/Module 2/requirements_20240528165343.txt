@@ -1,0 +1,9 @@
+mlflow
+jupyter
+scikit-learn==1.4.2 # 1.4.2 is the latest version that works with mlflow for the auto-logging
+pandas
+seaborn
+hyperopt
+xgboost
+fastparquet
+boto3
