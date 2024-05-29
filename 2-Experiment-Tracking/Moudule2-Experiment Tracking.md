@@ -1,5 +1,5 @@
 # 1.Check Version
-<img src='https://github.com/GawainGan/MLOps/blob/main/2-Experiment-Tracking/pic/1-Conda_Env-MLflow_Version.png' style="width: 40%;">
+<img src='https://github.com/GawainGan/MLOps/blob/main/2-Experiment-Tracking/pic/1-Conda_Env-MLflow_Version.png' style="width: 60%;">
 
 # 2.Download and preprocess the data
 ```python
@@ -27,14 +27,14 @@ the `min_samples_split` parameter is 2
 <img src='https://github.com/GawainGan/MLOps/blob/main/2-Experiment-Tracking/pic/4-artifact%20folder%20%26%20run%20locally.png' style="width: 40%;">
 
 # 5.Tune model hyperparameters
-<img src='https://github.com/GawainGan/MLOps/blob/main/2-Experiment-Tracking/pic/5-Update-hypo.py%20file.png'>
-<img src='https://github.com/GawainGan/MLOps/blob/main/2-Experiment-Tracking/pic/5.1-Sorted-rmse.png'>
+<img src='https://github.com/GawainGan/MLOps/blob/main/2-Experiment-Tracking/pic/5-Update-hypo.py%20file.png' style="width: 40%;">
+<img src='https://github.com/GawainGan/MLOps/blob/main/2-Experiment-Tracking/pic/5.1-Sorted-rmse.png' style="width: 40%;">
 
 The model with best rmse is:5.335
 
 # 6.Promote the best model to the model registry
 
-<img src='https://github.com/GawainGan/MLOps/blob/main/2-Experiment-Tracking/pic/6-Best-test-rmse.png'>
+<img src='https://github.com/GawainGan/MLOps/blob/main/2-Experiment-Tracking/pic/6-Best-test-rmse.png' style="width: 40%;">
 
 The best model with the test rmse is: 5.567
 
